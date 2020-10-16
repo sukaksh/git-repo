@@ -1,5 +1,5 @@
 package com.lti.model;
 
-public class Product {
-
+private class Product {
+double price;
 }
